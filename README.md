@@ -1,6 +1,11 @@
 # EfficientNet-B0-with-bi-GRU-on-medical-image
 introduce a new scaling neural network model that carefully balancing network depth, width, and resolution can lead to better performance
 
+##How to run
+To run this program, simply type the following command:
+
+`python .py`
+
 ## Package dependency
 1. scikit-lean==0.21.2
 2. pytorch==1.0.1
